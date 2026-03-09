@@ -18,7 +18,7 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://github.com/MahmoudHemaid/MahmoudHemaid/blob/main/Mahmoud-Hemaid-CV.pdf"><img src="https://img.shields.io/badge/Resume/CV-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
-  <a href="https://www.upwork.com/freelancers/mahmoudhemaid"><img src="https://img.shields.io/badge/Upwork%20Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus" /></a>
+  <a href="https://www.upwork.com/freelancers/mahmoudhemaid"><img src="https://img.shields.io/badge/Upwork%20Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=black&labelColor=6FDA44&color=6FDA44" alt="Upwork Top Rated Plus" /></a>
   <a href="mailto:mahmoud24ps@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
