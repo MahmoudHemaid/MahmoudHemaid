@@ -41,7 +41,7 @@ I build polished web platforms, mobile apps, and AI-powered products for teams t
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=nextdotjs&logoColor=black" height="28" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Next.js-27272A?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="28" alt="Vite" />
@@ -51,7 +51,7 @@ I build polished web platforms, mobile apps, and AI-powered products for teams t
 
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-ffffff?style=for-the-badge&logo=expo&logoColor=black" height="28" alt="Expo" />
+  <img src="https://img.shields.io/badge/Expo-3b82f6?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28" alt="Swift" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28" alt="Kotlin" />
 </p>
@@ -60,9 +60,9 @@ I build polished web platforms, mobile apps, and AI-powered products for teams t
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=black" height="28" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LiveKit-ffffff?style=for-the-badge&logo=livekit&logoColor=black" height="28" alt="LiveKit" />
-  <img src="https://img.shields.io/badge/OpenAI-ffffff?style=for-the-badge&logo=openai&logoColor=black" height="28" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-2A5858?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LiveKit-27272A?style=for-the-badge&logo=livekit&logoColor=white" height="28" alt="LiveKit" />
+  <img src="https://img.shields.io/badge/OpenAI-5C3BBF?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" alt="NestJS" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="28" alt="GraphQL" />
