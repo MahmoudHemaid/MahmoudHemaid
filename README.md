@@ -12,7 +12,7 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudHemaid&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MahmoudHemaid&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- Contact Badges -->
