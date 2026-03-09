@@ -12,14 +12,14 @@
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudHemaid&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MahmoudHemaid&label=Profile%20Views&color=1f6feb&style=for-the-badge" height="28" alt="Profile Views" />
 </p>
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="https://github.com/MahmoudHemaid/MahmoudHemaid/blob/main/Mahmoud-Hemaid-CV.pdf"><img src="https://img.shields.io/badge/Resume_/%20CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
-  <a href="https://www.upwork.com/freelancers/mahmoudhemaid"><img src="https://img.shields.io/badge/Upwork%20Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Top Rated Plus" /></a>
-  <a href="mailto:mahmoud24ps@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/MahmoudHemaid/MahmoudHemaid/blob/main/Mahmoud-Hemaid-CV.pdf"><img src="https://img.shields.io/badge/Resume_/%20CV-0A66C2?style=for-the-badge&logo=readdotcv&logoColor=white" height="28" alt="Download CV" /></a>
+  <a href="https://www.upwork.com/freelancers/mahmoudhemaid"><img src="https://img.shields.io/badge/Upwork%20Top%20Rated%20Plus-14A800?style=for-the-badge&logo=upwork&logoColor=white" height="28" alt="Upwork Top Rated Plus" /></a>
+  <a href="mailto:mahmoud24ps@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
 </p>
 
 ---
@@ -39,32 +39,32 @@ I build polished web platforms, mobile apps, and AI-powered products for teams t
 
 **Frontend & Web**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="28" alt="Vite" />
 
 **Mobile**
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="28" alt="Swift" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="28" alt="Kotlin" />
 
 **AI & Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" />
+<img src="https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white" height="28" alt="LiveKit" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" alt="NestJS" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="28" alt="GraphQL" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white" height="28" alt="REST API" />
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" alt="Supabase" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="28" alt="AWS" />
 
 ---
 
